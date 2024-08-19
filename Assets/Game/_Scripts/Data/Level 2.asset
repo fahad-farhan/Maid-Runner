@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11edecc07a8be9c47bd4349201b27aea, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  levelPrefab: {fileID: 377815722502230322, guid: 5317be7249a3f94478b9d3c94094395a,
+    type: 3}
+  skyboxMat: {fileID: 2100000, guid: 56643f448f22a60489288b5c0ae7db02, type: 2}
+  fogColor: {r: 0.5541048, g: 0.3019608, b: 0.8784314, a: 1}
